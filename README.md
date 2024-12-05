@@ -1,3 +1,3 @@
-Project Hangman Game
+Project Hangman Game.
 
-Using Js, CSS, HTML
+Using Js, CSS, HTML.
